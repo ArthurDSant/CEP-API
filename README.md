@@ -27,5 +27,5 @@ Com esse projeto tive a oportunidade de interagir com uma API, fazendo requisiç
 
 ## Screenshots
 
-![cepPrint](https://github.com/ArthurSantDev/CEP-/assets/159972613/e14a0d43-545e-4550-ad9d-c679701162ab)
+![CEP](https://github.com/ArthurSantDev/CEP/assets/159972613/09ed2b77-0cf3-444a-a096-58a4714fbfaf)
 
