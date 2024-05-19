@@ -12,6 +12,7 @@
     background-size: 600% 200%;
     background-image: linear-gradient(to right, var(--1), var(--2));
     animation: animatedBackground 3s infinite alternate;
+    /* background: linear-gradient(to top left, #0e0e0e, #6a6a6e); */
 }
 
 @keyframes animatedBackground {

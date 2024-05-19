@@ -37,7 +37,7 @@ function App() {
   return (
     <div className="background">
       <div className="app">
-        <h1 className='title'>Buscador CEP</h1>
+        <h1 className='title'>Dados do CEP</h1>
 
         <div className='appInput'>
           <input
