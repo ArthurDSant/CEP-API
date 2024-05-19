@@ -88,7 +88,7 @@
 
 @media (max-width: 650px) {
     .app {
-        margin-top: 230px;
+        margin-top: 0px;
     }
 
     .title {
@@ -104,7 +104,7 @@
 
 @media (max-width: 375px) {
     .app {
-        margin-top: 130px;
+        margin-top: 0px;
     }
 
     .title {
