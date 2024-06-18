@@ -29,10 +29,11 @@ Com esse projeto tive a oportunidade de interagir com uma API, fazendo requisiç
 
 
 ## Screenshots
-![CEP 2](https://github.com/ArthurSantDev/CEP-API/assets/159972613/fc7e8816-8204-475b-9fa7-fea480ab5b64)
-
 ![CEP 1](https://github.com/ArthurSantDev/CEP-API/assets/159972613/e043481e-cd49-4f0c-b737-1b80a377bf82)
 
-![CEP M 1](https://github.com/ArthurSantDev/CEP-API/assets/159972613/9880449a-d13f-4ca1-9052-5e21706794ec)
-![CEP M 2](https://github.com/ArthurSantDev/CEP-API/assets/159972613/ed91d158-a9c0-4a73-88dc-7a28ca6be0a4)
+![CEP 2](https://github.com/ArthurSantDev/CEP-API/assets/159972613/fc7e8816-8204-475b-9fa7-fea480ab5b64)
+
+![CEP 13 1](https://github.com/ArthurSantDev/CEP-API/assets/159972613/e782c63d-4d21-4cbf-873c-088698d16516)
+![CEP 13 2](https://github.com/ArthurSantDev/CEP-API/assets/159972613/d4a91ca5-e4f5-472e-8763-f9e0e4360fd3)
+
 
